@@ -1,0 +1,284 @@
+18:48:06.763 [main] INFO  api.test.UserTests.testPostUser(UserTests.java:45)oggger - *********** Creating User ***********
+18:48:11.108 [main] INFO  api.test.UserTests.testUpdateUserByName(UserTests.java:75)oggger - *********** Updating User ***********
+18:48:12.546 [main] INFO  api.test.UserTests.testUpdateUserByName(UserTests.java:88)oggger - *********** User is Updated ***********
+18:48:13.888 [main] INFO  api.test.UserTests.testDeleteUserByName(UserTests.java:100)oggger - *********** Deleting User ***********
+18:48:15.104 [main] INFO  api.test.UserTests.testDeleteUserByName(UserTests.java:105)oggger - *********** User Deleted ***********
+18:54:26.170 [main] INFO  api.test.UserTests - *********** Creating User ***********
+18:54:30.146 [main] INFO  api.test.UserTests - *********** Updating User ***********
+18:54:31.527 [main] INFO  api.test.UserTests - *********** User is Updated ***********
+18:54:32.984 [main] INFO  api.test.UserTests - *********** Deleting User ***********
+19:01:14.266 [main] DEBUG api.test.UserTests - *********** Creating User ***********
+19:01:19.067 [main] DEBUG api.test.UserTests - *********** Updating User ***********
+19:01:22.156 [main] DEBUG api.test.UserTests - *********** User is Updated ***********
+19:01:25.026 [main] DEBUG api.test.UserTests - *********** Deleting User ***********
+19:01:26.349 [main] DEBUG api.test.UserTests - *********** User Deleted ***********
+19:07:28.836 [main] INFO  api.test.UserTests - *********** Creating User ***********
+19:07:28.841 [main] DEBUG api.test.UserTests - User Payload: api.payload.User@7d30007d
+19:07:32.571 [main] DEBUG api.test.UserTests - Response Status Code: 200
+19:07:32.572 [main] DEBUG api.test.UserTests - Response Body: {"code":200,"type":"unknown","message":"782228073"}
+19:07:32.601 [main] INFO  api.test.UserTests - *********** Updating User ***********
+19:07:32.602 [main] DEBUG api.test.UserTests - Updated User Payload: api.payload.User@7d30007d
+19:07:34.166 [main] DEBUG api.test.UserTests - Response Status Code: 200
+19:07:34.167 [main] DEBUG api.test.UserTests - Response Body: {"code":200,"type":"unknown","message":"782228073"}
+19:07:34.167 [main] INFO  api.test.UserTests - *********** User is Updated ***********
+19:07:35.298 [main] DEBUG api.test.UserTests - Response after update Status Code: 200
+19:07:35.298 [main] DEBUG api.test.UserTests - Response after update Body: {"id":782228073,"username":"moises.oberbrunner","email":"taryn.prohaska@example.com","password":"k9ybg1vzt","phone":"608-848-8953","userStatus":0}
+19:07:35.308 [main] INFO  api.test.UserTests - *********** Deleting User ***********
+19:07:38.059 [main] DEBUG api.test.UserTests - Delete Response Status Code: 200
+19:07:38.060 [main] DEBUG api.test.UserTests - Delete Response Body: {"code":200,"type":"unknown","message":"moises.oberbrunner"}
+19:07:38.060 [main] INFO  api.test.UserTests - *********** User Deleted ***********
+19:11:14.352 [main] INFO  api.test.UserTests - *********** Creating User ***********
+19:11:14.356 [main] DEBUG api.test.UserTests - User Payload: api.payload.User@7d30007d
+19:11:18.060 [main] DEBUG api.test.UserTests - Response Status Code: 200
+19:11:18.060 [main] DEBUG api.test.UserTests - Response Body: {"code":200,"type":"unknown","message":"782228073"}
+19:11:18.088 [main] INFO  api.test.UserTests - *********** Updating User ***********
+19:11:18.089 [main] DEBUG api.test.UserTests - Updated User Payload: api.payload.User@7d30007d
+19:11:19.362 [main] DEBUG api.test.UserTests - Response Status Code: 200
+19:11:19.363 [main] DEBUG api.test.UserTests - Response Body: {"code":200,"type":"unknown","message":"782228073"}
+19:11:19.363 [main] INFO  api.test.UserTests - *********** User is Updated ***********
+19:11:20.886 [main] DEBUG api.test.UserTests - Response after update Status Code: 200
+19:11:20.886 [main] DEBUG api.test.UserTests - Response after update Body: {"id":782228073,"username":"moises.schmidt","email":"julian.smith@example.com","password":"8jwxezgwizg4v39","phone":"300-995-6377","userStatus":0}
+19:11:20.906 [main] INFO  api.test.UserTests - *********** Deleting User ***********
+19:11:22.317 [main] DEBUG api.test.UserTests - Delete Response Status Code: 200
+19:11:22.318 [main] DEBUG api.test.UserTests - Delete Response Body: {"code":200,"type":"unknown","message":"moises.schmidt"}
+19:11:22.319 [main] INFO  api.test.UserTests - *********** User Deleted ***********
+19:55:56.653 [main] INFO  api.test.UserTests2 - *********** Creating User ***********
+19:55:56.657 [main] DEBUG api.test.UserTests2 - User Payload: api.payload.User@5a9840f3
+19:55:59.204 [main] DEBUG api.test.UserTests2 - Response Status Code: 200
+19:55:59.205 [main] DEBUG api.test.UserTests2 - Response Body: {"code":200,"type":"unknown","message":"712627377"}
+19:55:59.218 [main] INFO  api.test.UserTests2 - *********** Updating User ***********
+19:55:59.218 [main] DEBUG api.test.UserTests2 - Updated User Payload: api.payload.User@5a9840f3
+19:59:43.333 [main] INFO  api.test.UserTests2 - *********** Creating User ***********
+19:59:43.336 [main] DEBUG api.test.UserTests2 - User Payload: api.payload.User@7d30007d
+19:59:46.221 [main] DEBUG api.test.UserTests2 - Response Status Code: 200
+19:59:46.221 [main] DEBUG api.test.UserTests2 - Response Body: {"code":200,"type":"unknown","message":"782228073"}
+19:59:46.235 [main] INFO  api.test.UserTests2 - *********** Updating User ***********
+19:59:46.235 [main] DEBUG api.test.UserTests2 - Updated User Payload: api.payload.User@7d30007d
+20:06:49.125 [main] INFO  api.test.UserTests2 - *********** Creating User ***********
+20:06:49.128 [main] DEBUG api.test.UserTests2 - User Payload: api.payload.User@7d30007d
+20:06:51.795 [main] DEBUG api.test.UserTests2 - Response Status Code: 200
+20:06:51.795 [main] DEBUG api.test.UserTests2 - Response Body: {"code":200,"type":"unknown","message":"782228073"}
+20:06:51.810 [main] INFO  api.test.UserTests2 - *********** Updating User ***********
+20:06:51.810 [main] DEBUG api.test.UserTests2 - Updated User Payload: api.payload.User@7d30007d
+20:06:53.358 [main] DEBUG api.test.UserTests2 - Response Status Code: 200
+20:06:53.358 [main] DEBUG api.test.UserTests2 - Response Body: {"code":200,"type":"unknown","message":"782228073"}
+20:06:53.358 [main] INFO  api.test.UserTests2 - *********** User is Updated ***********
+20:06:54.689 [main] DEBUG api.test.UserTests2 - Response after update Status Code: 200
+20:06:54.689 [main] DEBUG api.test.UserTests2 - Response after update Body: {"id":782228073,"username":"nicki.ratke","email":"sidney.klein@example.com","password":"bkhouyi9jemjrdl","phone":"1-876-642-4110","userStatus":0}
+20:06:54.692 [main] INFO  api.test.UserTests2 - *********** Deleting User ***********
+20:06:56.127 [main] DEBUG api.test.UserTests2 - Delete Response Status Code: 200
+20:06:56.127 [main] DEBUG api.test.UserTests2 - Delete Response Body: {"code":200,"type":"unknown","message":"nicki.ratke"}
+20:06:56.127 [main] INFO  api.test.UserTests2 - *********** User Deleted ***********
+20:11:58.092 [main] INFO  api.test.UserTests2 - *********** Creating User ***********
+20:11:58.094 [main] DEBUG api.test.UserTests2 - User Payload: api.payload.User@7e5efcab
+20:12:00.631 [main] DEBUG api.test.UserTests2 - Response Status Code: 200
+20:12:00.632 [main] DEBUG api.test.UserTests2 - Response Body: {"code":200,"type":"unknown","message":"743778731"}
+20:12:00.645 [main] INFO  api.test.UserTests2 - *********** Updating User ***********
+20:12:00.646 [main] DEBUG api.test.UserTests2 - Updated User Payload: api.payload.User@7e5efcab
+20:12:01.993 [main] DEBUG api.test.UserTests2 - Response Status Code: 200
+20:12:01.993 [main] DEBUG api.test.UserTests2 - Response Body: {"code":200,"type":"unknown","message":"743778731"}
+20:12:01.993 [main] INFO  api.test.UserTests2 - *********** User is Updated ***********
+20:12:03.137 [main] DEBUG api.test.UserTests2 - Response after update Status Code: 200
+20:12:03.137 [main] DEBUG api.test.UserTests2 - Response after update Body: {"id":743778731,"username":"rafaela.lueilwitz","email":"sheri.anderson@example.com","password":"nu1o4jpg4u9","phone":"827.408.4000","userStatus":0}
+20:12:03.139 [main] INFO  api.test.UserTests2 - *********** Deleting User ***********
+20:12:04.259 [main] DEBUG api.test.UserTests2 - Delete Response Status Code: 200
+20:12:04.259 [main] DEBUG api.test.UserTests2 - Delete Response Body: {"code":200,"type":"unknown","message":"rafaela.lueilwitz"}
+20:12:04.259 [main] INFO  api.test.UserTests2 - *********** User Deleted ***********
+20:16:24.652 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\bk100\eclipse2023\RestAssuresFramework\testng.xml"
+20:16:25.262 [main] INFO  api.test.UserTests2 - *********** Creating User ***********
+20:16:25.263 [main] DEBUG api.test.UserTests2 - User Payload: api.payload.User@560271a1
+20:16:28.295 [main] DEBUG api.test.UserTests2 - Response Status Code: 200
+20:16:28.295 [main] DEBUG api.test.UserTests2 - Response Body: {"code":200,"type":"unknown","message":"1811942924"}
+20:16:28.309 [main] INFO  api.test.UserTests2 - *********** Updating User ***********
+20:16:28.310 [main] DEBUG api.test.UserTests2 - Updated User Payload: api.payload.User@560271a1
+20:16:29.380 [main] DEBUG api.test.UserTests2 - Response Status Code: 200
+20:16:29.380 [main] DEBUG api.test.UserTests2 - Response Body: {"code":200,"type":"unknown","message":"1811942924"}
+20:16:29.380 [main] INFO  api.test.UserTests2 - *********** User is Updated ***********
+20:16:30.493 [main] DEBUG api.test.UserTests2 - Response after update Status Code: 200
+20:16:30.493 [main] DEBUG api.test.UserTests2 - Response after update Body: {"id":1811942924,"username":"fumiko.ruecker","email":"ronny.veum@example.com","password":"xigytiwg2htj","phone":"(648) 919-9740","userStatus":0}
+20:16:30.495 [main] INFO  api.test.UserTests2 - *********** Deleting User ***********
+20:16:31.626 [main] DEBUG api.test.UserTests2 - Delete Response Status Code: 200
+20:16:31.627 [main] DEBUG api.test.UserTests2 - Delete Response Body: {"code":200,"type":"unknown","message":"fumiko.ruecker"}
+20:16:31.627 [main] INFO  api.test.UserTests2 - *********** User Deleted ***********
+20:22:03.297 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\bk100\eclipse2023\RestAssuresFramework\testng.xml"
+20:22:03.928 [main] INFO  api.test.UserTests2 - *********** Creating User ***********
+20:22:03.929 [main] DEBUG api.test.UserTests2 - User Payload: User{id=828610686, username='cody.auer', firstname='Milda', lastname='Baumbach', email='hedy.beier@example.com', phone='288-771-7254', userStatus=0}
+20:22:06.933 [main] DEBUG api.test.UserTests2 - Response Status Code: 200
+20:22:06.934 [main] DEBUG api.test.UserTests2 - Response Body: {"code":200,"type":"unknown","message":"828610686"}
+20:22:06.946 [main] INFO  api.test.UserTests2 - *********** Updating User ***********
+20:22:06.947 [main] DEBUG api.test.UserTests2 - Updated User Payload: User{id=828610686, username='cody.auer', firstname='Jamal', lastname='Turcotte', email='royal.schmitt@example.com', phone='288-771-7254', userStatus=0}
+20:22:08.402 [main] DEBUG api.test.UserTests2 - Response Status Code: 200
+20:22:08.402 [main] DEBUG api.test.UserTests2 - Response Body: {"code":200,"type":"unknown","message":"828610686"}
+20:22:08.402 [main] INFO  api.test.UserTests2 - *********** User is Updated ***********
+20:22:09.645 [main] DEBUG api.test.UserTests2 - Response after update Status Code: 200
+20:22:09.645 [main] DEBUG api.test.UserTests2 - Response after update Body: {"id":828610686,"username":"cody.auer","email":"royal.schmitt@example.com","password":"icl1ezxj9imt19","phone":"288-771-7254","userStatus":0}
+20:22:09.647 [main] INFO  api.test.UserTests2 - *********** Deleting User ***********
+20:22:10.859 [main] DEBUG api.test.UserTests2 - Delete Response Status Code: 404
+20:22:10.859 [main] DEBUG api.test.UserTests2 - Delete Response Body: 
+20:24:25.176 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\bk100\eclipse2023\RestAssuresFramework\testng.xml"
+20:24:25.780 [main] INFO  api.test.UserTests2 - *********** Creating User ***********
+20:24:25.781 [main] DEBUG api.test.UserTests2 - User Payload: api.payload.User@560271a1
+20:24:28.547 [main] DEBUG api.test.UserTests2 - Response Status Code: 200
+20:24:28.547 [main] DEBUG api.test.UserTests2 - Response Body: {"code":200,"type":"unknown","message":"1811942924"}
+20:24:28.564 [main] INFO  api.test.UserTests2 - *********** Updating User ***********
+20:24:28.565 [main] DEBUG api.test.UserTests2 - Updated User Payload: api.payload.User@560271a1
+20:24:30.117 [main] DEBUG api.test.UserTests2 - Response Status Code: 200
+20:24:30.117 [main] DEBUG api.test.UserTests2 - Response Body: {"code":200,"type":"unknown","message":"1811942924"}
+20:24:30.117 [main] INFO  api.test.UserTests2 - *********** User is Updated ***********
+20:24:31.160 [main] DEBUG api.test.UserTests2 - Response after update Status Code: 200
+20:24:31.160 [main] DEBUG api.test.UserTests2 - Response after update Body: {"id":1811942924,"username":"dong.ferry","email":"orval.jaskolski@example.com","password":"vdi785ky2v3","phone":"955-323-2705","userStatus":0}
+20:24:31.162 [main] INFO  api.test.UserTests2 - *********** Deleting User ***********
+20:24:32.282 [main] DEBUG api.test.UserTests2 - Delete Response Status Code: 404
+20:24:32.282 [main] DEBUG api.test.UserTests2 - Delete Response Body: 
+20:29:38.873 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\bk100\eclipse2023\RestAssuresFramework\testng.xml"
+20:29:39.498 [main] INFO  api.test.UserTests2 - *********** Creating User ***********
+20:29:39.498 [main] DEBUG api.test.UserTests2 - User Payload: User{id=1596144422, username='elvin.goyette', firstname='Stuart', lastname='Torp', email='laci.towne@example.com', phone='(350) 092-9151', userStatus=0}
+20:29:42.194 [main] DEBUG api.test.UserTests2 - Response Status Code: 200
+20:29:42.194 [main] DEBUG api.test.UserTests2 - Response Body: {"code":200,"type":"unknown","message":"1596144422"}
+20:29:42.209 [main] INFO  api.test.UserTests2 - *********** Updating User ***********
+20:29:42.210 [main] DEBUG api.test.UserTests2 - Updated User Payload: User{id=1596144422, username='elvin.goyette', firstname='Hettie', lastname='Von', email='freddie.howe@example.com', phone='(350) 092-9151', userStatus=0}
+20:29:43.464 [main] DEBUG api.test.UserTests2 - Response Status Code: 200
+20:29:43.465 [main] DEBUG api.test.UserTests2 - Response Body: {"code":200,"type":"unknown","message":"1596144422"}
+20:29:43.465 [main] INFO  api.test.UserTests2 - *********** User is Updated ***********
+20:29:44.608 [main] DEBUG api.test.UserTests2 - Response after update Status Code: 200
+20:29:44.609 [main] DEBUG api.test.UserTests2 - Response after update Body: {"id":1596144422,"username":"elvin.goyette","email":"freddie.howe@example.com","password":"9k4n5opvkoye","phone":"(350) 092-9151","userStatus":0}
+20:29:44.611 [main] INFO  api.test.UserTests2 - *********** Deleting User ***********
+20:29:46.024 [main] DEBUG api.test.UserTests2 - Delete Response Status Code: 200
+20:29:46.025 [main] DEBUG api.test.UserTests2 - Delete Response Body: {"code":200,"type":"unknown","message":"elvin.goyette"}
+20:29:46.025 [main] INFO  api.test.UserTests2 - *********** User Deleted ***********
+20:38:33.961 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\bk100\eclipse2023\RestAssuresFramework\testng.xml"
+20:38:34.568 [main] INFO  api.test.UserTests2 - *********** Creating User ***********
+20:38:34.569 [main] DEBUG api.test.UserTests2 - User Payload: User{id=828610686, username='cinda.zemlak', firstname='Elfriede', lastname='Dietrich', email='titus.moen@example.com', phone='(397) 795-1099', userStatus=0}
+20:38:37.335 [main] DEBUG api.test.UserTests2 - Response Status Code: 200
+20:38:37.335 [main] DEBUG api.test.UserTests2 - Response Body: {"code":200,"type":"unknown","message":"828610686"}
+20:38:37.350 [main] INFO  api.test.UserTests2 - *********** Updating User ***********
+20:38:37.351 [main] DEBUG api.test.UserTests2 - Updated User Payload: User{id=828610686, username='cinda.zemlak', firstname='Coleman', lastname='Hayes', email='lucien.powlowski@example.com', phone='(397) 795-1099', userStatus=0}
+20:38:38.399 [main] DEBUG api.test.UserTests2 - Response Status Code: 200
+20:38:38.399 [main] DEBUG api.test.UserTests2 - Response Body: {"code":200,"type":"unknown","message":"828610686"}
+20:38:38.399 [main] INFO  api.test.UserTests2 - *********** User is Updated ***********
+20:38:39.438 [main] DEBUG api.test.UserTests2 - Response after update Status Code: 200
+20:38:39.438 [main] DEBUG api.test.UserTests2 - Response after update Body: {"id":828610686,"username":"cinda.zemlak","email":"lucien.powlowski@example.com","password":"6afzvf1jw","phone":"(397) 795-1099","userStatus":0}
+20:38:39.441 [main] INFO  api.test.UserTests2 - *********** Deleting User ***********
+20:38:40.659 [main] DEBUG api.test.UserTests2 - Delete Response Status Code: 200
+20:38:40.659 [main] DEBUG api.test.UserTests2 - Delete Response Body: {"code":200,"type":"unknown","message":"cinda.zemlak"}
+20:38:40.659 [main] INFO  api.test.UserTests2 - *********** User Deleted ***********
+20:40:44.555 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\bk100\eclipse2023\RestAssuresFramework\testng.xml"
+20:40:45.188 [main] INFO  api.test.UserTests2 - *********** Creating User ***********
+20:40:45.189 [main] INFO  api.test.UserTests2 - User object toString output: User{id=1811942924, username='clemente.kuphal', firstname='Jason', lastname='Hickle', email='quincy.brekke@example.com', phone='(617) 637-7612', userStatus=0}
+20:40:47.996 [main] DEBUG api.test.UserTests2 - Response Status Code: 200
+20:40:47.996 [main] DEBUG api.test.UserTests2 - Response Body: {"code":200,"type":"unknown","message":"1811942924"}
+20:40:48.011 [main] INFO  api.test.UserTests2 - *********** Updating User ***********
+20:40:48.012 [main] DEBUG api.test.UserTests2 - Updated User Payload: User{id=1811942924, username='clemente.kuphal', firstname='Antonietta', lastname='Nikolaus', email='rod.hauck@example.com', phone='(617) 637-7612', userStatus=0}
+20:40:49.163 [main] DEBUG api.test.UserTests2 - Response Status Code: 200
+20:40:49.163 [main] DEBUG api.test.UserTests2 - Response Body: {"code":200,"type":"unknown","message":"1811942924"}
+20:40:49.163 [main] INFO  api.test.UserTests2 - *********** User is Updated ***********
+20:40:50.295 [main] DEBUG api.test.UserTests2 - Response after update Status Code: 200
+20:40:50.295 [main] DEBUG api.test.UserTests2 - Response after update Body: {"id":1811942924,"username":"clemente.kuphal","email":"rod.hauck@example.com","password":"1qea8m5peww333z","phone":"(617) 637-7612","userStatus":0}
+20:40:50.297 [main] INFO  api.test.UserTests2 - *********** Deleting User ***********
+20:40:51.306 [main] DEBUG api.test.UserTests2 - Delete Response Status Code: 200
+20:40:51.306 [main] DEBUG api.test.UserTests2 - Delete Response Body: {"code":200,"type":"unknown","message":"clemente.kuphal"}
+20:40:51.307 [main] INFO  api.test.UserTests2 - *********** User Deleted ***********
+20:44:21.542 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\bk100\eclipse2023\RestAssuresFramework\testng.xml"
+20:44:22.155 [main] INFO  api.test.UserTests2 - *********** Creating User ***********
+20:44:22.155 [main] DEBUG api.test.UserTests2 - User Payload: User{id=828610686, username='perla.goodwin', firstname='Felecia', lastname='Zemlak', email='lore.deckow@example.com', phone='521.512.7381', userStatus=0}
+20:44:24.764 [main] DEBUG api.test.UserTests2 - Response Status Code: 200
+20:44:24.765 [main] DEBUG api.test.UserTests2 - Response Body: {"code":200,"type":"unknown","message":"828610686"}
+20:44:24.778 [main] INFO  api.test.UserTests2 - *********** Updating User ***********
+20:44:24.779 [main] DEBUG api.test.UserTests2 - Updated User Payload: User{id=828610686, username='perla.goodwin', firstname='Cheree', lastname='Lemke', email='donn.braun@example.com', phone='521.512.7381', userStatus=0}
+20:44:25.839 [main] DEBUG api.test.UserTests2 - Response Status Code: 200
+20:44:25.839 [main] DEBUG api.test.UserTests2 - Response Body: {"code":200,"type":"unknown","message":"828610686"}
+20:44:25.839 [main] INFO  api.test.UserTests2 - *********** User is Updated ***********
+20:44:27.073 [main] DEBUG api.test.UserTests2 - Response after update Status Code: 200
+20:44:27.074 [main] DEBUG api.test.UserTests2 - Response after update Body: {"id":828610686,"username":"perla.goodwin","email":"donn.braun@example.com","password":"p3lalxeegg","phone":"521.512.7381","userStatus":0}
+20:44:27.076 [main] INFO  api.test.UserTests2 - *********** Deleting User ***********
+20:44:28.314 [main] DEBUG api.test.UserTests2 - Delete Response Status Code: 200
+20:44:28.314 [main] DEBUG api.test.UserTests2 - Delete Response Body: {"code":200,"type":"unknown","message":"perla.goodwin"}
+20:44:28.314 [main] INFO  api.test.UserTests2 - *********** User Deleted ***********
+20:55:04.342 [main] DEBUG org.testng.TestNG - suiteXmlPath: "-"
+20:55:04.359 [main] DEBUG org.testng.TestNG - suiteXmlPath: "q"
+20:55:04.360 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\bk100\eclipse2023\RestAssuresFramework\testng.xml"
+20:55:04.701 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\bk100\eclipse2023\RestAssuresFramework\testng.xml
+
+20:55:05.209 [main] INFO  api.test.UserTests2 - *********** Creating User ***********
+20:55:05.210 [main] DEBUG api.test.UserTests2 - User Payload: User{id=1414744767, username='kendrick.spencer', firstname='Amos', lastname='Skiles', email='lucille.ohara@example.com', phone='747-710-7975', userStatus=0}
+20:55:08.593 [main] DEBUG api.test.UserTests2 - Response Status Code: 200
+20:55:08.594 [main] DEBUG api.test.UserTests2 - Response Body: {"code":200,"type":"unknown","message":"1414744767"}
+20:55:08.614 [main] INFO  api.test.UserTests2 - *********** Updating User ***********
+20:55:08.615 [main] DEBUG api.test.UserTests2 - Updated User Payload: User{id=1414744767, username='kendrick.spencer', firstname='Darrin', lastname='McDermott', email='tamala.ritchie@example.com', phone='747-710-7975', userStatus=0}
+20:55:09.932 [main] DEBUG api.test.UserTests2 - Response Status Code: 200
+20:55:09.933 [main] DEBUG api.test.UserTests2 - Response Body: {"code":200,"type":"unknown","message":"1414744767"}
+20:55:09.933 [main] INFO  api.test.UserTests2 - *********** User is Updated ***********
+20:55:11.163 [main] DEBUG api.test.UserTests2 - Response after update Status Code: 200
+20:55:11.164 [main] DEBUG api.test.UserTests2 - Response after update Body: {"id":1414744767,"username":"kendrick.spencer","email":"lucille.ohara@example.com","password":"pf4b8110v","phone":"747-710-7975","userStatus":0}
+20:55:11.170 [main] INFO  api.test.UserTests2 - *********** Deleting User ***********
+20:55:12.294 [main] DEBUG api.test.UserTests2 - Delete Response Status Code: 200
+20:55:12.294 [main] DEBUG api.test.UserTests2 - Delete Response Body: {"code":200,"type":"unknown","message":"kendrick.spencer"}
+20:55:12.294 [main] INFO  api.test.UserTests2 - *********** User Deleted ***********
+20:55:45.835 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\bk100\eclipse2023\RestAssuresFramework\testng.xml"
+20:55:46.201 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\bk100\eclipse2023\RestAssuresFramework\testng.xml
+
+20:55:46.748 [main] INFO  api.test.UserTests2 - *********** Creating User ***********
+20:55:46.748 [main] DEBUG api.test.UserTests2 - User Payload: User{id=1420623741, username='nolan.ledner', firstname='Merrie', lastname='Bosco', email='dorsey.mraz@example.com', phone='417.547.3412', userStatus=0}
+20:55:49.784 [main] DEBUG api.test.UserTests2 - Response Status Code: 200
+20:55:49.785 [main] DEBUG api.test.UserTests2 - Response Body: {"code":200,"type":"unknown","message":"1420623741"}
+20:55:49.811 [main] INFO  api.test.UserTests2 - *********** Updating User ***********
+20:55:49.812 [main] DEBUG api.test.UserTests2 - Updated User Payload: User{id=1420623741, username='nolan.ledner', firstname='Amal', lastname='Klein', email='erica.marvin@example.com', phone='417.547.3412', userStatus=0}
+20:55:51.114 [main] DEBUG api.test.UserTests2 - Response Status Code: 200
+20:55:51.115 [main] DEBUG api.test.UserTests2 - Response Body: {"code":200,"type":"unknown","message":"1420623741"}
+20:55:51.116 [main] INFO  api.test.UserTests2 - *********** User is Updated ***********
+20:55:52.222 [main] DEBUG api.test.UserTests2 - Response after update Status Code: 404
+20:55:52.223 [main] DEBUG api.test.UserTests2 - Response after update Body: {"code":1,"type":"error","message":"User not found"}
+20:55:52.234 [main] INFO  api.test.UserTests2 - *********** Deleting User ***********
+20:55:53.444 [main] DEBUG api.test.UserTests2 - Delete Response Status Code: 200
+20:55:53.444 [main] DEBUG api.test.UserTests2 - Delete Response Body: {"code":200,"type":"unknown","message":"nolan.ledner"}
+20:55:53.444 [main] INFO  api.test.UserTests2 - *********** User Deleted ***********
+20:56:15.206 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\bk100\eclipse2023\RestAssuresFramework\testng.xml"
+20:56:16.019 [main] INFO  api.test.UserTests2 - *********** Creating User ***********
+20:56:16.020 [main] DEBUG api.test.UserTests2 - User Payload: User{id=1811942924, username='seth.bradtke', firstname='Johnathan', lastname='Davis', email='kati.beier@example.com', phone='595-748-8895', userStatus=0}
+20:56:19.481 [main] DEBUG api.test.UserTests2 - Response Status Code: 200
+20:56:19.482 [main] DEBUG api.test.UserTests2 - Response Body: {"code":200,"type":"unknown","message":"1811942924"}
+20:56:19.504 [main] INFO  api.test.UserTests2 - *********** Updating User ***********
+20:56:19.505 [main] DEBUG api.test.UserTests2 - Updated User Payload: User{id=1811942924, username='seth.bradtke', firstname='Brice', lastname='Lind', email='mora.hyatt@example.com', phone='595-748-8895', userStatus=0}
+20:56:21.201 [main] DEBUG api.test.UserTests2 - Response Status Code: 200
+20:56:21.201 [main] DEBUG api.test.UserTests2 - Response Body: {"code":200,"type":"unknown","message":"1811942924"}
+20:56:21.201 [main] INFO  api.test.UserTests2 - *********** User is Updated ***********
+20:56:22.954 [main] DEBUG api.test.UserTests2 - Response after update Status Code: 200
+20:56:22.955 [main] DEBUG api.test.UserTests2 - Response after update Body: {"id":1811942924,"username":"seth.bradtke","email":"kati.beier@example.com","password":"xsmfllmplb5g","phone":"595-748-8895","userStatus":0}
+20:56:22.959 [main] INFO  api.test.UserTests2 - *********** Deleting User ***********
+20:56:24.173 [main] DEBUG api.test.UserTests2 - Delete Response Status Code: 200
+20:56:24.174 [main] DEBUG api.test.UserTests2 - Delete Response Body: {"code":200,"type":"unknown","message":"seth.bradtke"}
+20:56:24.175 [main] INFO  api.test.UserTests2 - *********** User Deleted ***********
+21:32:35.232 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\bk100\eclipse2023\RestAssuresFramework\testng.xml"
+21:32:36.132 [main] INFO  api.test.UserTests2 - *********** Creating User ***********
+21:32:36.133 [main] DEBUG api.test.UserTests2 - User Payload: User{id=74885833, username='august.keeling', firstname='Devin', lastname='Little', email='shirlee.leuschke@example.com', phone='949-799-4513', userStatus=0}
+21:32:39.696 [main] DEBUG api.test.UserTests2 - Response Status Code: 200
+21:32:39.696 [main] DEBUG api.test.UserTests2 - Response Body: {"code":200,"type":"unknown","message":"74885833"}
+21:32:39.718 [main] INFO  api.test.UserTests2 - *********** Updating User ***********
+21:32:39.719 [main] DEBUG api.test.UserTests2 - Updated User Payload: User{id=74885833, username='august.keeling', firstname='Noah', lastname='Kihn', email='renee.moore@example.com', phone='949-799-4513', userStatus=0}
+21:32:40.832 [main] DEBUG api.test.UserTests2 - Response Status Code: 200
+21:32:40.833 [main] DEBUG api.test.UserTests2 - Response Body: {"code":200,"type":"unknown","message":"74885833"}
+21:32:40.833 [main] INFO  api.test.UserTests2 - *********** User is Updated ***********
+21:32:41.865 [main] DEBUG api.test.UserTests2 - Response after update Status Code: 404
+21:32:41.866 [main] DEBUG api.test.UserTests2 - Response after update Body: {"code":1,"type":"error","message":"User not found"}
+21:32:41.877 [main] INFO  api.test.UserTests2 - *********** Deleting User ***********
+21:32:43.286 [main] DEBUG api.test.UserTests2 - Delete Response Status Code: 200
+21:32:43.287 [main] DEBUG api.test.UserTests2 - Delete Response Body: {"code":200,"type":"unknown","message":"august.keeling"}
+21:32:43.287 [main] INFO  api.test.UserTests2 - *********** User Deleted ***********
+21:35:53.409 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\bk100\eclipse2023\RestAssuresFramework\testng.xml"
+21:35:54.276 [main] INFO  api.test.UserTests2 - *********** Creating User ***********
+21:35:54.277 [main] DEBUG api.test.UserTests2 - User Payload: User{id=74885833, username='winston.emmerich', firstname='Lenard', lastname='Koch', email='deedra.hammes@example.com', phone='1-875-683-5486', userStatus=0}
+21:35:58.866 [main] DEBUG api.test.UserTests2 - Response Status Code: 200
+21:35:58.866 [main] DEBUG api.test.UserTests2 - Response Body: {"code":200,"type":"unknown","message":"74885833"}
+21:35:58.887 [main] INFO  api.test.UserTests2 - *********** Updating User ***********
+21:35:58.888 [main] DEBUG api.test.UserTests2 - Updated User Payload: User{id=74885833, username='winston.emmerich', firstname='Rosana', lastname='O'Reilly', email='rueben.douglas@example.com', phone='1-875-683-5486', userStatus=0}
+21:36:00.010 [main] DEBUG api.test.UserTests2 - Response Status Code: 200
+21:36:00.010 [main] DEBUG api.test.UserTests2 - Response Body: {"code":200,"type":"unknown","message":"74885833"}
+21:36:00.010 [main] INFO  api.test.UserTests2 - *********** User is Updated ***********
+21:36:01.243 [main] DEBUG api.test.UserTests2 - Response after update Status Code: 200
+21:36:01.243 [main] DEBUG api.test.UserTests2 - Response after update Body: {"id":74885833,"username":"winston.emmerich","email":"rueben.douglas@example.com","password":"vxu7mvc8wesk","phone":"1-875-683-5486","userStatus":0}
+21:36:01.246 [main] INFO  api.test.UserTests2 - *********** Deleting User ***********
+21:36:02.372 [main] DEBUG api.test.UserTests2 - Delete Response Status Code: 200
+21:36:02.373 [main] DEBUG api.test.UserTests2 - Delete Response Body: {"code":200,"type":"unknown","message":"winston.emmerich"}
+21:36:02.373 [main] INFO  api.test.UserTests2 - *********** User Deleted ***********
